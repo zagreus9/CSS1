@@ -1,0 +1,26 @@
+h1{
+    color: red;
+}
+body{
+    background-color:gray;
+    list-style-position: inside;
+    text-align: center;
+}
+a{
+margin-right: 10px;
+font-size: 58spx;
+}
+img{
+    margin-bottom: 10px;
+}
+.gradient {
+    background: linear-gradient(90deg,rgba(45,156,219,.6),rgba(155,81,224,.6));
+}
+.btn{
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    -webkit-box-shadow: 2px 6px 25px 9px rgba(0,0,0,0.74); 
+    box-shadow: 2px 6px 25px 9px rgba(0,0,0,0.74);
+}
